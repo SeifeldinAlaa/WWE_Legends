@@ -1,0 +1,1 @@
+window.blockEnabled = "Triple_H.jpg", "Hulk_Hogan.jpg", "Batista.png", "Shawn_Michaels.jpg", "The_Rock.jpg";
